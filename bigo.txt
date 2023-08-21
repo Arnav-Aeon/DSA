@@ -1,0 +1,3 @@
+big o notation
+
+the time of a function to run is esstimated using the no of times a for or while loop runs inside the function
